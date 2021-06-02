@@ -2,22 +2,6 @@
     display: none;
 }
 
-/* cherry edits */
-
-h1 {
-	font-family: "Montserrat"
-}
-
-.main-userWidget-chevron {
-    fill: var(--spice-text) !important
-}
-
-.main-card-card:hover {
-    background-color: #7f9bff66
-}
-
-/* end cherry edits */
-
 .main-rootlist-rootlistDivider {
     background-color: rgba(var(--spice-rgb-button-disabled),.8)
 }
